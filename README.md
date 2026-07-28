@@ -92,69 +92,69 @@ This project demonstrates the deployment and administration of a Windows Server 
 
 \## Screenshots
 
-\### 1. Active Directory Structure
+### 1. Active Directory Structure
 
 
 
-!\[Active Directory Structure](Screenshots/01-Active-Directory-Structure.jpg)
+![Active Directory Structure](Screenshots/01-Active-Directory-Structure.jpg)
 
 
 
-\---
+---
 
 
 
-\### 2. Domain-Joined Client
+### 2. Domain-Joined Client
 
 
 
-!\[Domain Joined Client](Screenshots/02-Domain-Joined-Client.jpg)
+![Domain Joined Client](Screenshots/02-Domain-Joined-Client.jpg)
 
 
 
-\---
+---
 
 
 
-\### 3. Group Policy Linked to IT OU
+### 3. Group Policy Linked to IT OU
 
 
 
-!\[GPO Linked](Screenshots/03-GPO-Linked-to-IT-OU.jpg)
+![GPO Linked](Screenshots/03-GPO-Linked-to-IT-OU.jpg)
 
 
 
-\---
+---
 
 
 
-\### 4. Group Policy Successfully Applied
+### 4. Group Policy Successfully Applied
 
 
 
-!\[GPO Applied](Screenshots/04-GPO-Applied-to-Client.jpg)
+![GPO Applied](Screenshots/04-GPO-Applied-to-Client.jpg)
 
 
 
-\---
+---
 
 
 
-\### 5. Group Policy Configuration
+### 5. Group Policy Configuration
 
 
 
-!\[GPO Configuration](Screenshots/05-GPO-Configuration.jpg)
+![GPO Configuration](Screenshots/05-GPO-Configuration.jpg)
 
 
 
-\---
+---
 
 
 
-\### 6. Group Policy Enforcement
+### 6. Group Policy Enforcement
 
 
 
-!\[GPO Enforcement](Screenshots/06-GPO-Policy-Enforcement.jpg)
+![GPO Enforcement](Screenshots/06-GPO-Policy-Enforcement.jpg)
 
