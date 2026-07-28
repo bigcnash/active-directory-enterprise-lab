@@ -1,3 +1,6 @@
+![Active Directory Enterprise Lab Banner](Assets/active-directory-banner.png)
+
+
 # Active Directory Enterprise Lab
 
 ## Enterprise Windows Server Domain Administration
