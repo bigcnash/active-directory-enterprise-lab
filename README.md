@@ -1,3 +1,14 @@
+# Active Directory Enterprise Lab
+
+## Enterprise Windows Server Domain Administration
+
+**Project Type:** Home Lab  
+**Environment:** Oracle VirtualBox  
+**Operating Systems:** Windows Server, Windows 11  
+**Domain:** corp.local
+
+---
+
 \# Active Directory Enterprise Lab
 
 
@@ -84,7 +95,15 @@ This project demonstrates the deployment and administration of a Windows Server 
 
 \- Troubleshooting
 
+## Technologies Used
 
+- Windows Server
+- Active Directory Domain Services (AD DS)
+- DNS
+- Group Policy Management
+- Windows 11
+- Oracle VirtualBox
+- Command Prompt
 
 \---
 
@@ -158,3 +177,6 @@ This project demonstrates the deployment and administration of a Windows Server 
 
 ![GPO Enforcement](Screenshots/06-GPO-Policy-Enforcement.jpg)
 
+## Conclusion
+
+This project demonstrates the deployment and administration of a Windows Active Directory environment from initial server configuration through client domain integration and Group Policy enforcement. The lab showcases foundational enterprise IT administration skills, including identity management, DNS configuration, Organizational Unit administration, Group Policy deployment, and Windows client management.
